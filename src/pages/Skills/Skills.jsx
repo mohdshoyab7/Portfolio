@@ -73,7 +73,7 @@ const SkillsSection = () => {
       skills: [
         { name: "React", icon: <FaReact className="w-4 h-4 text-[#61DAFB]" /> },
         {
-          name: "Next.js",
+          name: "React Native",
           icon: <SiNextdotjs className="w-4 h-4 text-white" />,
         },
         {
@@ -91,6 +91,10 @@ const SkillsSection = () => {
         {
           name: "CSS3",
           icon: <BsFileEarmarkCode className="w-4 h-4 text-[#1572B6]" />,
+        },
+        {
+          name: "BootsTrap",
+          icon: <BsFileEarmarkCode className="w-4 h-4 text-[#E10098]" />,
         },
       ],
     },

@@ -15,24 +15,24 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
+      degree: "Senior Secondary School Certificate (SSC)",
+      school: "Krishna Pub Collegiate",
       mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
+      year: "2019-2020",
+      achievements: ["GPA: 9.23", "Subject: Science"],
+      skills: ["Mathematics", "Physics", "Chemistry"],
       description:
         "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
     },
     {
-      degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
+      degree: "Bachelor of Technology",
+      school: "G.L Bajaj Institute of Technology and Management",
       mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
+      year: "2021-2025",
+      achievements: ["GPA: 8.34", "Stream: C.S.E"],
+      skills: ["C++","DSA","Tailwind CSS","Javascript","React","React Native","Git"],
       description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+      "Built a strong foundation in computer science with hands-on experience in software development, data structures, and front-end technologies through academic projects and coursework.",
     },
   ];
 
