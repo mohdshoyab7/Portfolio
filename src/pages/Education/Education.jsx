@@ -15,7 +15,7 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Senior Secondary School Certificate (SSC)",
+      degree: "Senior Secondary School",
       school: "Krishna Pub Collegiate",
       mascot: "📘",
       year: "2019-2020",

@@ -55,7 +55,7 @@ export default function Contact() {
     const form = new FormData();
     form.append("access_key", "90f4b8af-e590-42b0-beaf-10b18f66a703"); // Replace with your Web3Forms access key
     form.append("name", formData.name);
-    form.append("email", formData.email);
+    form.append("email", "shoyabmohammad218@gmail.com");
     form.append("subject", formData.subject || "New Contact Form Submission");
     form.append("message", formData.message);
 
