@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/hero.jpg";
+import HeroImg from "@/assets/images/photo.jpg";
 import OlovaLogo from "@/assets/images/olova.png";
 
 export default function About() {
@@ -24,34 +24,23 @@ export default function About() {
 
             <div className="relative space-y-4">
               <p className="text-white">
-                Hello! I'm Mohd Shoyab, a passionat Software developer
-                specializing in creating innovative web solutions and
-                user-friendly interfaces.{" "}
-                <span className="font-bold text-white">
-                  As the creator of the OlovaJS UI Framework
-                </span>
-                , I'm dedicated to simplifying development workflows.
+                Hello! I'm Mohd Shoyab, a passionate Software Developer specializing in building modern, responsive web and mobile applications. With 1.3+ years of hands-on experience in React and React Native, I’ve worked on real-world, production-level apps—most notably contributing to <span className="font-semibold text-white">SportsBaazi</span>, a live fantasy sports platform.
               </p>
+
               <p className="text-white">
-                My focus is on making web development faster, easier, and
-                accessible to all developers. Currently, I'm expanding into
-                backend development to grow as a full-stack developer and create
-                seamless, robust web applications.
+                My focus is on creating fast, scalable, and user-friendly interfaces using the latest frontend technologies and design systems. I'm also expanding into backend development to become a well-rounded full-stack developer, capable of building complete, end-to-end solutions.
               </p>
 
               <div className="pt-6">
                 <blockquote className="border-l-4 border-gray-300 pl-4">
                   <p className="text-white">
-                    I'm a lifelong learner and innovator, driven by a desire to
-                    contribute to the developer community with new ideas and
-                    tools that deliver real value. As the creator of OlovaJS,
-                    I'm pushing the boundaries of JavaScript frameworks to
-                    empower developers worldwide.
+                    I'm a lifelong learner and innovator, driven by a desire to contribute to the developer community with tools and ideas that deliver real value.
+                    I'm pushing the boundaries of JavaScript frameworks to empower developers worldwide.
                   </p>
 
                   <div className="mt-6 space-y-3">
                     <cite className="block font-medium text-white">
-                      Nazmul Hossain, Creator of
+                      Mohd Shoyab, Software Developer
                     </cite>
                     <div className="flex items-center gap-2">
                       <img
@@ -61,12 +50,13 @@ export default function About() {
                         height="20"
                         width="auto"
                       />
-                      <span className="text-white">OlovaJS</span>
+                      <span className="text-white">Delhi,India</span>
                     </div>
                   </div>
                 </blockquote>
               </div>
             </div>
+
           </div>
         </div>
       </section>

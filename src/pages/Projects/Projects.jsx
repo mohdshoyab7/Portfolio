@@ -5,45 +5,45 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
-    title: "Olova! A Lightweight JavaScript Library",
+    title: "SportsBaazi Fantasy App",
     description:
-      "A lightweight JavaScript library for creating beautiful, responsive UI components.",
+      "SportsBaazi is a real-money gaming platform offering engaging experiences across Fantasy Sports, Predictor, Poker, Ludo, and more. Built using React Native, I contributed to the development of key features including the Social Profile and Leaderboard modules, enhancing user engagement and competitive tracking within the app.",
     src: "rock.jpg",
-    link: "https://i.postimg.cc/DwgWTfP0/Annotation-2025-03-19-113338.png",
+    link: "https://image.ballebaazi.com/emailer_images/sportsimage-117.jpg",
     color: "#5196fd",
-    githubLink: "https://github.com/olovajs/olova",
-    liveLink: "https://olova.js.org/",
+    githubLink: "https://github.com/mohdshoyab7",
+    liveLink: "https://www.sportsbaazi.com/",
   },
   {
-    title: "A sleek portfolio built with React and Tailwind CSS ",
+    title: "🛍️ AIO E-Commerce Website",
     description:
-      "A sleek portfolio built with React and Tailwind CSS to showcase your skills, projects, and experience in a modern design.",
+      "A full-featured E-Commerce platform offering seamless product browsing, cart management, user authentication, and order processing. Built with React and Tailwind CSS, the site delivers a responsive, modern UI and smooth user experience, making it ideal for scalable online retail solutions.",
     src: "tree.jpg",
-    link: "https://i.postimg.cc/J75CKyrs/Annotation-2025-04-01-203959.png",
+    link: "https://i.ytimg.com/vi/zVO5zfMGHWI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhOxfmHv775LaMsuwBjegXSpq-5g",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
-    liveLink: "https://codervai.vercel.app",
-  },
+    githubLink: "https://github.com/mohdshoyab7",
+    liveLink: "",
+  },  
   {
-    title: "🚀 CodeWhisperer",
+    title: "🚀 Time Table Generator",
     description:
-      "🚀 CodeWhisperer A powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+      "An intelligent Time Table Generator designed for academic and organizational management. Leveraging Genetic Algorithms, it efficiently creates optimized schedules while resolving conflicts and adhering to constraints. Built with React and Tailwind CSS, it features a clean UI and seamless user experience for easy planning and automation.",
     src: "water.jpg",
-    link: "https://i.postimg.cc/J4jPVFY0/Annotation-2025-04-01-204723.png",
+    link: "https://shoppy.b-cdn.net/wp-content/uploads/2024/07/14-1.png",
     color: "#fff",
-    githubLink: "https://github.com/seraprogrammer/codewhisperer",
-    liveLink: "https://codewhisperer.vercel.app/",
-  },
-  {
-    title: "CodeKori 🔥",
-    description:
-      "CodeKori is a powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
-    src: "house.jpg",
-    link: "https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png",
-    color: "#ed649e",
-    githubLink: "https://github.com/seraprogrammer/CodeKori",
-    liveLink: "https://codekori.js.org",
-  },
+    githubLink: "https://github.com/mohdshoyab7",
+    liveLink: "",
+  }
+  // {
+  //   title: "CodeKori 🔥",
+  //   description:
+  //     "CodeKori is a powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+  //   src: "house.jpg",
+  //   link: "https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png",
+  //   color: "#ed649e",
+  //   githubLink: "https://github.com/seraprogrammer/CodeKori",
+  //   liveLink: "https://codekori.js.org",
+  // },
 ];
 
 export default function Projects() {
